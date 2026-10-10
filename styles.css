@@ -149,7 +149,8 @@ body{
 }
 
 .reglas_texto{
-    position: relative;
+    display: flex;
+    flex-direction: column;
     padding: 60px 40px;
 }
 
