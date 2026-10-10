@@ -155,9 +155,8 @@ body{
 
 .reglas_imagen img{
     display: block;
-    width: 100%;
-    max-width: 440px;
-    max-height: 440px;
+    max-width: 530px;
+    max-height: 530px;
     object-fit: cover;
 }
 
